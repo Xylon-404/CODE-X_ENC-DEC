@@ -8,7 +8,7 @@
 
 1. **Visit Website:**
 
-    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue-style=for-the-badge)](https://xylon-404.github.io/Crypto_calculator/)
+    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://xylon-404.github.io/Crypto_calculator/)
   
     - <🤍> ENC/DEC - Hashlib-SHA256/MD5
     - <🤍> ENC/DEC - AES-SHA256
