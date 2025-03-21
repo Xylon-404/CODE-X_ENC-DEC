@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com-font=Fira+Code&weight=4000&size=36&pause=1000&width=435&lines=%D9%84%D8%A7+%D8%A5%D9%84%D9%87+%D8%A5%D9%84%D8%A7+%D8%A7%D9%84%D9%84%D9%87+%D9%85%D8%AD%D9%85%D8%AF+%D8%B1%D8%B3%D9%88%D9%84+%D8%A7%D9%84%D9%84%D9%87)](https://git.io/typing-svg)
 
+## 🌟 How It Works
 
 1. **Visit Website:**
 
