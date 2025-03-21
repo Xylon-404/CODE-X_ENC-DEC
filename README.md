@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api-type=waving&color=auto&height=300&section=header&text=ENC%20-DEC&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ENC%20-DEC&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
